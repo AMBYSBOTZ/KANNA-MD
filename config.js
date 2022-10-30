@@ -4,15 +4,8 @@
 
 // - - THANKS TO - -
 // • Allah SWT
-// • Nurutomo
-// • Bochilgaming
-// • Rominaru
-// • Kannachann
-// • The.Sad.Boy01
-// • Rasel comel
-// • Xtreshe (Beban)
-// • DaniBotz Team
-// • Dll
+// • Tioxd
+// • X I A O - S A N
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -45,39 +38,39 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'Gk Ad Bang:v'
-global.sgh = 'https://github.com/Bot-Mdnew'
-global.sgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
-global.sdc = 'https://github.com/Bot-Mdnew'
+global.sig = 'https://instagram/granger_ambys'
+global.sgh = 'https://instagram.com/granger_ambys?igshid=YmMyMTA2M2Y='
+global.sgc = 'https://chat.whatsapp.com/LR8q27mkkihJptchGvpBct'
+global.sdc = 'https://github.com/kepo lu bang'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081352848936'
+global.pdana = '-'
+global.povo = '-'
+global.pgopay = '-'
+global.ppulsa = '085798267620'
+global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281542613150'
-global.nomorown = '6281251549899'
-global.namebot = 'DaniBotz Ofc'
-global.nameown = 'X Dani Offcial'
+global.nomorbot = '6282122379874'
+global.nomorown = '6285798267620'
+global.namebot = 'AMBYS BOTZ'
+global.nameown = 'X I A O - S A N'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', 'X Dani Offcial', true]
+  ['6285798267620', 'X I A O - S A N', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = [6285798267620] // Want some help?
+global.prems = [6285798267620] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
 global.APIs = { // API Prefix
-  // name: 'https://website'
+  // name: 'https://neoxr-api.herokuapp.com'
   nrtm: 'https://nurutomo.herokuapp.com',
   rey: 'https://server-api-rey.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
@@ -96,7 +89,7 @@ global.APIs = { // API Prefix
   kanx: 'https://kannxapi.herokuapp.com/'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  // 'https://neoxr-api.herokuapp.com': 'yntkts'
   'https://api.xteam.xyz': 'APIKEY',
   'https://anabotofc.herokuapp.com/': 'APIKEY',
   'https://api.lolhuman.xyz': 'APIKEY',
@@ -113,20 +106,20 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 DaniBotz |ᗪani Offcial⁩ 」' //Main Watermark
-global.wm2 = '    乂 尺乇ㄒ乇卂爪 乂     '
-global.wm3 = '尺乇ㄒ乇卂爪 |ᗪ'
+global.wm = '「 AMBYS |⁩ BOTZ 」' //Main Watermark
+global.wm2 = '    乂 X I A O - S A N 乂     '
+global.wm3 = 'X I A O |S A N'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = 'ㄩ几| 丂ㄖᐯ|乇ㄒ✯✯✯✯✯ '
+global.titlebot = '乂 X I A O - S A N '
 global.author = global.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/5444accedcd06f172899d.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/5444accedcd06f172899d.jpg'
-global.thumbbc = 'https://telegra.ph/file/d389f4acafac741f6592c.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+global.thumb = 'https://telegra.ph/file/91cb036814b8753824e4d.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/4b58066404610967d3d1d.jpg'
+global.thumbbc = 'https://telegra.ph/file/91cb036814b8753824e4d.jpg' //For broadcast
+global.giflogo = 'https://telegra.ph/file/d0979d3e93f065efb8e4d.mp4'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
@@ -171,8 +164,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '\n'
-global.stickauth = `乂 尺乇ㄒ乇卂爪.|ᗪ \nig reteam.id`
+global.stickpack = '\save wa gua 085798267620'
+global.stickauth = `乂 follow ig gua.|granger_ambys \nig reteam.id`
 
 global.multiplier = 38 // The higher, The harder levelup
 
