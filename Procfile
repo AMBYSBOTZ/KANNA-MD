@@ -1,1 +1,1 @@
-worker: npm start
+worker: npm install && l -g pm2 && pm2 start index && pm2 save && pm2 logs
